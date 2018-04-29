@@ -1,0 +1,8 @@
+{
+    "name"              :"Hello",
+    "description"       :"Plugin to render a list of hello",
+    "namespace"         :"Hello",
+    "author"            :"Cemil Cömert",
+    "type"              :"template",
+    "serviceProvider"   :"Hello\\Providers\\HelloServiceProvider"
+}
